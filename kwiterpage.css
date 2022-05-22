@@ -1,0 +1,40 @@
+body {
+    background-color: goldenrod;
+}
+
+#h1{
+    font-family: 'Comic Neue', cursive;
+}
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background-color: aqua;
+}
+.input_div_message_page label
+{
+	color: black;
+    font-family: 'Comic Neue', cursive;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%;
+    font-family: 'Comic Neue', cursive; 
+}
+.color_white
+{
+	color: white
+}
+
+.user_tick
+{
+	width:20px;
+}
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
+    
